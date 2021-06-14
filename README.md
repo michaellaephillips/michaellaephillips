@@ -36,6 +36,6 @@ My name is Michaella Phillips and I am an Analytical Chemist and aspiring Data S
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
 <br>
 ## Recent Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaellaephillips&repo=ImageDetectionForPlantDisease)](https://github.com/michaellaephillips&repo/ImageDetectionForPlantDisease)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaellaephillips&repo=ImageDetectionForPlantDisease)](https://github.com/michaellaephillips/ImageDetectionForPlantDisease)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaellaephillips&repo=THzProject)](https://github.com/michaellaephillips&repo/THzProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaellaephillips&repo=THzProject)](https://github.com/michaellaephillips/THzProject)
