@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://raw.githubusercontent.com/michaellaephillips/michaellaephillips/master/banner.png">
 
 
 My name is Michaella Phillips and am an Analytical Chemist and aspiring Data Scientist/Analyst. I received my Bachelor's of Science in Chemistry from the University of Delaware and my Master's of Science in Analytical Chemistry from the University of Iowa. I studied the transformation of solid materials and their physical properties. After, I comlpleted a Data Science Certificate from Springboard (https://www.springboard.com/invite/KSCAN). 
@@ -29,8 +29,9 @@ My name is Michaella Phillips and am an Analytical Chemist and aspiring Data Sci
 
 ## Programming Stats: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaellaephillips&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaellaephillips&show_icons=true&theme=tokyonight)
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
 <br>
