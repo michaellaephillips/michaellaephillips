@@ -25,6 +25,7 @@ My name is Michaella Phillips and I am an Analytical Chemist and aspiring Data S
 
 <img align="left" alt="Michaella's ResearchGate" width="36px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png"/> <a href="https://www.researchgate.net/profile/Michaella-Raglione">ResearchGate</a><br>
 
+<img align="left" alt="Michaella's Google Scholar" width="36px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png"/> <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=AChHS2EAAAAJ">Google Scholar</a><br>
 <br>
 
 ## Programming Stats: 
