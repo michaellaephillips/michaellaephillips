@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/michaellaephillips/michaellaephillips/master/banner.png">
 
 
-My name is Michaella Phillips and I am an Analytical Chemist and aspiring Data Scientist/Analyst. I received my Bachelor's of Science in Chemistry from the University of Delaware and my Master's of Science in Analytical Chemistry from the University of Iowa. I studied the transformation of solid materials and their physical properties. After, I comlpleted a Data Science Certificate from Springboard (https://www.springboard.com/invite/KSCAN). 
+My name is Michaella Phillips and I am an Analytical Chemist and aspiring Data Scientist/Analyst. I received my Bachelor's of Science in Chemistry from the University of Delaware and my Master's of Science in Analytical Chemistry from the University of Iowa. I studied the transformation of solid materials and their physical properties. After, I comlpleted a Data Science Certificate from <a href = 'https://www.springboard.com/invite/KSCAN'>Springboard</a>. 
 
 <h2> Contacts:</h2>
 
