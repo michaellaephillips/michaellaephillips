@@ -21,21 +21,23 @@ My name is Michaella Phillips and I am an Analytical Chemist and aspiring Data S
 
 ## Contacts:
 
-<img align="left" alt="Michaella's LinkedIN" width="36px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png"/> <a href="https://www.linkedin.com/in/michaellaerinraglione/">LinkedIn</a><br>
+<p align="center">
+<a href="https://www.linkedin.com/in/michaellaerinraglione/"><img align="left" alt="Michaella's LinkedIN" width="36px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png"/></a> 
 
-<img align="left" alt="Michaella's ResearchGate" width="36px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png"/> <a href="https://www.researchgate.net/profile/Michaella-Raglione">ResearchGate</a><br>
+<a href='https://www.researchgate.net/profile/Michaella-Raglione'> <img align="left" alt="Michaella's ResearchGate" width="36px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png"/></a>
 
-<img align="left" alt="Michaella's Google Scholar" width="36px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png"/> <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=AChHS2EAAAAJ">Google Scholar</a><br>
-<br>
+<a href="https://scholar.google.com/citations?hl=en&authuser=2&user=AChHS2EAAAAJ"><img align="left" alt="Michaella's Google Scholar" width="36px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png"/></a><br>
+</p>
 
 ## Programming Stats: 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=michaellaephillips&show_icons=true&theme=tokyonight&count_private=true" alt="michaellaephillips" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaellaephillips&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
-
+<p align="center"> 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
-<br>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code> 
+</p>
+
 ## Recent Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaellaephillips&repo=ImageDetectionForPlantDisease&theme=tokyonight)](https://github.com/michaellaephillips/ImageDetectionForPlantDisease)
 
