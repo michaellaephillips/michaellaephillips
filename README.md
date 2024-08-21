@@ -40,6 +40,7 @@ My name is Michaella Phillips and I am an Analytical Chemist and aspiring Data S
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/1098/PNG/512/1485481300-38_78657.png" alt='html'></code> 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/194px-Git_icon.svg.png"></code> 
 <code><img height="50" src="https://user-images.githubusercontent.com/49339/32078127-102bbcfe-baa6-11e7-8ab9-b04dcad2035e.png"></code> 
+<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWjtsespl1Aanqh-gfvY3CIq0WZN9qtjROg&s"></code> 
 </p>
 
 <h2> Recent Projects: </h2>
