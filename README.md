@@ -37,7 +37,7 @@ My name is Michaella Phillips and I am an Analytical Chemist and aspiring Data S
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt = 'python'></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt='matlab'></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt='jupyter notebooks'></code> 
-<code><img height="50" src="https://image.flaticon.com/icons/png/512/174/174854.png" alt='html'></code> 
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1098/PNG/512/1485481300-38_78657.png" alt='html'></code> 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/194px-Git_icon.svg.png"></code> 
 <code><img height="50" src="https://user-images.githubusercontent.com/49339/32078127-102bbcfe-baa6-11e7-8ab9-b04dcad2035e.png"></code> 
 </p>
