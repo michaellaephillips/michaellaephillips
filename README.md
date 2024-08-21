@@ -22,7 +22,7 @@ My name is Michaella Phillips and I am an Analytical Chemist and aspiring Data S
 <h2> Contacts:</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/michaellaerinraglione/"><img align="left" alt="Michaella's LinkedIN" width="36px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png"/></a> 
+<a href="https://www.linkedin.com/in/michaellaerinraglione/"><img align="left" alt="Michaella's LinkedIN" width="36px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png"/></a> 
 
 <a href='https://www.researchgate.net/profile/Michaella-Raglione'> <img align="left" alt="Michaella's ResearchGate" width="36px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png"/></a>
 
